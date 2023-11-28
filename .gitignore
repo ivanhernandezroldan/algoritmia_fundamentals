@@ -1,6 +1,9 @@
 # Ignora las carpetas Debug
 Debug
 
+# Ignora las carpetas v16
+*.vs/
+
 # Ignora las carpetas Debug
 x64
 
