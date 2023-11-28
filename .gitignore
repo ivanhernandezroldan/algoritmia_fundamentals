@@ -1,0 +1,18 @@
+# Ignora las carpetas Debug
+Debug
+
+# Ignora las carpetas Debug
+x64
+
+# Ignora todos los archivos SLN
+*.sln
+
+# Ignora todos los archivos SLN
+*.suo
+*.db
+*.ipch
+
+# Ignora los archivos relacionados a .vcxproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
